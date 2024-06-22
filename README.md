@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonioBarco
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning computer engineering
-- 📫 How to reach me: antoniobarco@correo.ugr.es
+- 📫 How to reach me: antoniobarcodev@gmail.com
 
 <!---
 AntonioBarco/AntonioBarco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
